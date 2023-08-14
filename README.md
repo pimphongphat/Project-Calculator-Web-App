@@ -2,31 +2,22 @@
 Simple Software Development Documents Implement
 
 ## Mockup tools
-[Mockup Online](https://app.moqups.com/)
-
-[MockFlow](https://wireframepro.mockflow.com/)
-[Marvel](https://marvelapp.com/)
-
-[Miro](https://miro.com/)
-
+[Mockup Online](https://app.moqups.com/)  
+[MockFlow](https://wireframepro.mockflow.com/)  
+[Marvel](https://marvelapp.com/)  
+[Miro](https://miro.com/)  
 [Whimsical](https://whimsical.com/)
 
 ## Mockdown
-[Markdown Guide](https://www.markdownguide.org/)
-
-[Mermaid Live Editor](https://mermaid.live/edit#pako:eNqNUj1PwzAU_CuWp0RNq3y1STx0gYGNAbFAGFzbBEuJHfkDEUr-O25KQgIdasnS0_nu6d75HSGRlEEESY21vuW4UrgpBXBnQMANromtsZEKHM_46awwpR5GQNjmwFQADmPpj8WMq-3BKEzM1YLG1oa3dXe1gPJ3Ttk19L4U8-keNVvMtRa4YQhoo7ioZjBrMK__46taVlx4_hKR1iwgq9lvih5xJZrF6l80dse1e-sWmcuWKWy4FHp08vyy_JL7keFN3JE6N1QxMzG15__tNlmZ_f16_bU_p4WAm0dfIOwn0wi4uIRx94c3CJcMTAjTQyMYwIYpp6BuDYd5S2jeWMNKiFxJ2St2-1DCUvSOiq2RD50gEBllWQBtS7FhP4s7gi0WEB3hB0RZlGySXZoXaZRFRbyNAthBVGzyMErSMEvCNEvzOOsD-Cml04ebIonDIou3uyhPdnEaD92ehsdT8_4b1ej8RA)
-
+[Markdown Guide](https://www.markdownguide.org/)  
+[Mermaid Live Editor](https://mermaid.live/edit#pako:eNqNUj1PwzAU_CuWp0RNq3y1STx0gYGNAbFAGFzbBEuJHfkDEUr-O25KQgIdasnS0_nu6d75HSGRlEEESY21vuW4UrgpBXBnQMANromtsZEKHM_46awwpR5GQNjmwFQADmPpj8WMq-3BKEzM1YLG1oa3dXe1gPJ3Ttk19L4U8-keNVvMtRa4YQhoo7ioZjBrMK__46taVlx4_hKR1iwgq9lvih5xJZrF6l80dse1e-sWmcuWKWy4FHp08vyy_JL7keFN3JE6N1QxMzG15__tNlmZ_f16_bU_p4WAm0dfIOwn0wi4uIRx94c3CJcMTAjTQyMYwIYpp6BuDYd5S2jeWMNKiFxJ2St2-1DCUvSOiq2RD50gEBllWQBtS7FhP4s7gi0WEB3hB0RZlGySXZoXaZRFRbyNAthBVGzyMErSMEvCNEvzOOsD-Cml04ebIonDIou3uyhPdnEaD92ehsdT8_4b1ej8RA)  
 [Markdown Online Editor](https://stackedit.io/)
 
-## UML ONline
-[PlantUML](https://www.plantuml.com/)
-
-[PlantText](https://www.planttext.com/)
-
-[Mermaid](https://mermaid.live/)
-
-[Sketchviz](https://sketchviz.com/)
-
+## UML Online
+[PlantUML](https://www.plantuml.com/)  
+[PlantText](https://www.planttext.com/)  
+[Mermaid](https://mermaid.live/)  
+[Sketchviz](https://sketchviz.com/)  
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
